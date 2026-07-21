@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="/assets/banner.png" width="100%">
+</p>
+
+<h1 align="center">Lynx</h1>
+
+<p align="center">
+Azus Cloner
+</p>
+
 # Azus Cloner - Lynx
  [+] **Discord Server Cloner (Selfbot)**
 ---
