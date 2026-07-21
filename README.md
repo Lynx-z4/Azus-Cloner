@@ -1,5 +1,5 @@
 # Azus Cloner - Lynx
-**Discord Server Cloner (Selfbot)**
+ [+] **Discord Server Cloner (Selfbot)**
 ---
 
 ## > Features
